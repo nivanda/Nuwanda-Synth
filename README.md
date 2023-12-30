@@ -1,4 +1,4 @@
 # Nuwanda-Synth
-Chord VCO:
-Original Author: HAGIWO
-Link: https://www.youtube.com/@HAGIWO
+## Chord VCO:
+Original Author: HAGIWO  
+Link: https://www.youtube.com/@HAGIWO  
